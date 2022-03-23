@@ -1,6 +1,6 @@
 
 ## 思路
-长URL转换为短URL，核心是将形如：https://cloud.tencent.com/developer/article/1563962的地址转换成https://t.cn/Qgy5Fg的形式；
+长URL转换为短URL，核心是将形如：https://cloud.tencent.com/developer/article/1563962 的地址转换成 https://t.cn/Qgy5Fg 的形式；
 要将长URL变短，要么给URL生成一个全局唯一的ID，要么将URL地址本身用算法加密后变短；
 
 ## ID生成文案
